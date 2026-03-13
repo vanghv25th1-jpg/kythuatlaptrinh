@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="buoi1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="buoi11.cpp">
+    <ClCompile Include="buoi2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
