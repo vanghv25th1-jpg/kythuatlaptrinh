@@ -60,10 +60,10 @@ do {
 	case 0: {
 		return 0;
 	default:
-		cout << "KHONG CO CHUC NANG NAY DAU THANG MAT LOL" << endl;
+		cout << "KHONG CO CHUC NANG NAY DAU " << endl;
 	}
 	}
-	cout << "Go enter de tiep tuc di thang ku...";
+	cout << "Go enter de tiep tuc ...";
 	cin.ignore();
 	cin.get();
 } while (true);
