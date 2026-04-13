@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{3881385f-8aa4-4472-b7ba-1b0c63ef98fb}</ProjectGuid>
-    <RootNamespace>buoi3</RootNamespace>
+    <ProjectGuid>{5c8e0f7b-f0e6-49c8-a299-c0126c1a1650}</ProjectGuid>
+    <RootNamespace>buoin</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,8 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="buo tipepep.cpp" />
-    <ClCompile Include="buooi3.cpp" />
+    <ClCompile Include="buoi n.cpp" />
+    <ClCompile Include="FileName.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
