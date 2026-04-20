@@ -130,6 +130,9 @@
     <ClCompile Include="buoi n.cpp" />
     <ClCompile Include="FileName.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="chodat.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
